@@ -22,12 +22,6 @@ He trabajado en capacitación técnica (**AGC/Colbún**), proyectos **IoT**, y a
 
 <br>
 
-<!-- Trofeos -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blvckvenom&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" width="84%"/>
-  </a>
-</div>
 
 <!-- Redes -->
 <div align="center">
@@ -96,13 +90,5 @@ He trabajado en capacitación técnica (**AGC/Colbún**), proyectos **IoT**, y a
 </table>
 </p>
 
-<!-- Contador de visitas -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/blvckvenom/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br><br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
