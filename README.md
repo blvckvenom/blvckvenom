@@ -11,28 +11,28 @@
 Soy **Ing. Civil ElÃ©ctrica (U. de Chile)** y cursando **MagÃ­ster en Ciencia de Datos**. Me mueven la **Inteligencia Computacional (DL/ML/IA)** y la **RobÃ³tica**.  
 He trabajado en capacitaciÃ³n tÃ©cnica (**AGC/ColbÃºn**), proyectos **IoT**, y actualmente desarrollo un mÃ³dulo en **MillenniumDB** para calcular *embeddings* con **Graph Neural Networks** y consultas en **GQL** extendido.
 
-- í³š Estoy aprendiendo / profundizando:
-  - *Graph ML (GNN), GQL sobre grafos, pipelines MLOps bÃ¡sicos*
-- íº€ Abierto a sumarme a proyectos de **IA** y **Data**.
+- ğŸ“š Estoy aprendiendo / profundizando:
+    - *Graph ML (GNN), GQL sobre grafos, pipelines MLOps bÃ¡sicos*
+- ğŸ¤ Abierto a sumarme a proyectos de **IA** y **Data**.
 - âœ” Me motiva ayudar: Â¡pregunta sin miedo!
-- Fuera de tech: í¿‹ï¸ entrenamiento, í¾® videojuegos, í¾µ mÃºsica.
+- Fuera de tech: ğŸ‹ï¸ entrenamiento, ğŸ® videojuegos, ğŸµ mÃºsica.
 
-- í³« EscrÃ­beme: <a href="mailto:benitofuentessilva@gmail.com">benitofuentessilva@gmail.com</a>
+- ğŸ“§ EscrÃ­beme: <a href="mailto:benitofuentessilva@gmail.com">benitofuentessilva@gmail.com</a>
 
 <br>
 
 <!-- Trofeos -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blvckvenom&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" width="84%"/>
-  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=blvckvenom&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" width="84%"/>
+    </a>
 </div>
 
 <!-- Redes -->
 <div align="center">
-  <a href="mailto:benitofuentessilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/benito-fuentes-silva/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://github.com/blvckvenom"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
+    <a href="mailto:benitofuentessilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+    <a href="https://www.linkedin.com/in/benito-fuentes-silva/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+    <a href="https://github.com/blvckvenom"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -85,11 +85,11 @@ He trabajado en capacitaciÃ³n tÃ©cnica (**AGC/ColbÃºn**), proyectos **IoT**, y a
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=blvckvenom&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=blvckvenom&theme=nightowl&hide_border=false" alt="streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=blvckvenom&theme=nightowl&show_icons=true&count_private=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blvckvenom&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blvckvenom&theme=nightowl&hide_border=false&langs_count=10&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blvckvenom&theme=nightowl&hide_border=false&langs_count=10&layout=compact"/>
 </td>
 </tr>
 </table>
@@ -98,10 +98,11 @@ He trabajado en capacitaciÃ³n tÃ©cnica (**AGC/ColbÃºn**), proyectos **IoT**, y a
 <!-- Contador de visitas -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/blvckvenom/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+        <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/blvckvenom/count.svg">
+        <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br><br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
