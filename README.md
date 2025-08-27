@@ -81,7 +81,6 @@ He trabajado en capacitación técnica (**AGC/Colbún**), proyectos **IoT**, y a
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=blvckvenom&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=blvckvenom&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blvckvenom&theme=nightowl&hide_border=false&langs_count=10&layout=compact"/>
