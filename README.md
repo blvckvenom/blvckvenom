@@ -84,8 +84,11 @@ Actualmente desarrollo mi tesis en **MillenniumDB** sobre entrenamiento de **Gra
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blvckvenom&theme=nightowl&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blvckvenom&theme=nightowl&hide_border=false&langs_count=10&layout=compact" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blvckvenom&theme=nord_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blvckvenom&theme=nord_dark" alt="Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blvckvenom&theme=nord_dark&utcOffset=-3" alt="Commits" />
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
